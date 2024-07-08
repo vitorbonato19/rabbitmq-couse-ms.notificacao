@@ -14,6 +14,8 @@ public class Usuario {
 
     private Double renda;
 
+    private Proposta proposta;
+
     public Usuario() {
 
     }
